@@ -4,10 +4,7 @@ Test and improve your typing speed with real-time WPM (Words Per Minute) trackin
 
 ## Demo
 
-https://github.com/yourusername/speed-typing-test/assets/demo.mp4
-
-<!-- Alternative method using relative path: -->
-[Watch Demo Video](./demo.mp4)
+![Speed Typing Test Demo](./demo.gif)
 
 ## Features
 - Real-time WPM calculation
