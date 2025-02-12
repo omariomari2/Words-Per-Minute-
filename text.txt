@@ -1,4 +1,38 @@
-Hello world my name is Patrick and I like doing projects!
+Hello world my name is Omari and I like doing projects!
 This is another test block of text for this project!
+
 Okay this is just another test to make sure the app is working okay!
 The quick brown fox jumped over the lazy dog.
+
+The quick brown fox jumps over the lazy dog.
+This pangram contains every letter of the English alphabet at least once.
+
+To be or not to be, that is the question.
+All that glitters is not gold.
+
+A journey of a thousand miles begins with a single step.
+Life is what happens while you're busy making other plans.
+
+We must learn to live together as brothers or perish together as fools.
+In three words I can sum up everything I've learned about life: it goes on.
+
+The only way to do great work is to love what you do.
+If you haven't found it yet, keep looking, and don't settle.
+
+Success is not final, failure is not fatal: it is the courage to continue that counts.
+Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.
+
+It is better to be hated for what you are than to be loved for what you are not.
+Be yourself; everyone else is already taken.
+
+Yesterday is history, tomorrow is a mystery, but today is a gift.
+That's why we call it the present.
+
+The best way to predict the future is to create it.
+Life is really simple, but we insist on making it complicated.
+
+The future belongs to those who believe in the beauty of their dreams.
+Everything you can imagine is real.
+
+Happiness is not something ready made.
+It comes from your own actions.
