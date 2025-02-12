@@ -3,7 +3,7 @@ A terminal-based typing speed test application built with Python and curses.
 Test and improve your typing speed with real-time WPM (Words Per Minute) tracking and accuracy measurements.
 
 ## Demo
-[Speed Typing Test Demo]([./demo.gif](https://github.com/omariomari2/Words-Per-Minute-/blob/main/WPM%20demo.gif))
+[Speed Typing Test Demo]((https://github.com/omariomari2/Words-Per-Minute-/blob/main/WPM%20demo.gif))
 
 ## Features
 - Real-time WPM calculation
